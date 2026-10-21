@@ -116,7 +116,7 @@ if (video) {
 
         // Klik / tap apa pun → Shopee
         window.open(
-            "https://s.shopee.co.id/9AP1EmARWh",
+            "https://s.shopee.co.id/1qc6pmzZHW",
             "_blank"
         );
 
