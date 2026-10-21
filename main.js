@@ -3,28 +3,20 @@
 // ==========================================
 
 const daftarVideo = [
-    "https://cdn.aceimg.com/689pE9dJu.mp4",
-"https://cdn.aceimg.com/EbhCaBWhK.mp4",
-"https://cdn.aceimg.com/psWGJcpkQ.mp4",
-"https://cdn.aceimg.com/X9Wz9YfAg.mp4",
-"https://cdn.aceimg.com/cQlm3KgQ6.mp4",
-"https://cdn.aceimg.com/QjqFxZAJ7.mp4",
-"https://cdn.aceimg.com/ekUQIidbV.mp4",
-"https://cdn.aceimg.com/9e373b38f.mp4",
-"https://cdn.aceimg.com/kUDcvvmff.mp4",
-"https://cdn.aceimg.com/JRgzCpb8q.mp4",
-"https://cdn.aceimg.com/zH7425xOl.mp4",
-"https://cdn.aceimg.com/oiijiyxXm.mp4",
-"https://cdn.aceimg.com/plzIhbF59.mp4",
-"https://cdn.aceimg.com/x92TSAekK.mp4",
-"https://cdn.aceimg.com/PApiu0PQV.mp4",
-"https://cdn.aceimg.com/mOopwVR9E.mp4",
-"https://cdn.aceimg.com/CMydotC8V.mp4",
-"https://cdn.aceimg.com/tNxf3HUdN.mp4",
-"https://cdn.aceimg.com/X5Ge0WbZb.mp4",
-"https://cdn.aceimg.com/Rnv8bg0kW.mp4",
-"https://cdn.aceimg.com/CXkllQ0hu.mp4",
-"https://cdn.aceimg.com/26UE002XM.mp4"
+    "https://cdn2.videy.co/ZwdCN9621.mp4",
+    "https://cdn2.videy.co/VNDBFNBT1.mp4",
+    "https://cdn2.videy.co/lZBK9W3A1.mp4",
+    "https://cdn2.videy.co/pFDi1M5m1.mp4",
+    "https://cdn2.videy.co/BjVsmoPs1.mp4",
+    "https://cdn.videy.co/8cWz7SRK1.mp4",
+    "https://cdn2.videy.co/AAovM0bj1.mp4",
+    "https://cdn2.videy.co/CU550Zof1.mp4",
+    "https://cdn2.videy.co/mRZ1Lm0Y1.mp4",
+    "https://cdn2.videy.co/rTERwuzM1.mp4",
+    "https://cdn2.videy.co/xn4L8uRk1.mp4",
+    "https://cdn2.videy.co/s2yazRB51.mp4",
+    "https://cdn2.videy.co/KQPf4Otj1.mp4",
+    "https://cdn2.videy.co/TD8eGo2X1.mp4"
 ];
 
 
