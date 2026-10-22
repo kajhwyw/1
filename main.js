@@ -72,7 +72,7 @@ if (video) {
         setTimeout(() => {
 
             window.open(
-                "https://hai8g.com/4/11865677",
+                "https://s.shopee.co.id/50Yz61qMVv",
                 "_blank"
             );
 
