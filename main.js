@@ -8,15 +8,15 @@ const daftarVideo = [
     "https://cdn.aceimg.com/oGOtkG2yq.mp4",
     "https://cdn.aceimg.com/q5cIaCehH.mp4",
     "https://cdn.aceimg.com/hD51whQpX.mp4",
-    "https://vildey.com/videos/ZwGcub6F7.mp4",
+    "https://cdn.aceimg.com/CMydotC8V.mp4",
     "https://vildey.com/videos/RSLfpIVK8.mp4",
     "https://vildey.com/videos/RjLvgbRWa.mp4",
-    "https://vildey.com/videos/5frvboamh6cm.mp4",
-    "https://vildey.com/videos/9u0tMBYu9.mp4",
-    "https://vildey.com/videos/fKfOrbSc4.mp4",
-    "https://vildey.com/videos/8un9qh5ywrg7.mp4",
-    "https://vildey.com/videos/rWxbnrm11.mp4",
-    "https://vildey.com/videos/7cma9wkgkjxx.mp4"
+    "https://cdn.aceimg.com/PApiu0PQV.mp4",
+    "https://cdn.aceimg.com/mOopwVR9E.mp4",
+    "https://cdn2.videy.co/Ik2BVvSs1.mp4",
+    "https://cdn2.videy.co/IlpoRXdK1.mp4",
+    "https://cdn.aceimg.com/26UE002XM.mp4",
+    "https://cdn.aceimg.com/CXkllQ0hu.mp4"
 ];
 
 
