@@ -3,12 +3,12 @@
 // ==========================================
 
 const daftarVideo = [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
+    "https://cdn2.slicadrivee.fun/videos/vjeFM11NB.mp4",
+    "https://cdn2.slicadrivee.fun/videos/Wp5yo0nQd.mp4",
+    "https://cdn2.slicadrivee.fun/videos/TMW04fLzD.mp4",
+    "https://cdn2.slicadrivee.fun/videos/C9KTKeLs5.mp4",
+    "https://cdn.sliceedrive.fun/videos/cQlm3KgQ6.mp4",
+    "https://cdn.sliceedrive.fun/videos/5iYYQqKIL.mp4",
     "",
     "",
     "",
