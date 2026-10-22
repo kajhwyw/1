@@ -14,9 +14,9 @@ const daftarVideo = [
     "https://vildey.com/videos/5frvboamh6cm.mp4",
     "https://vildey.com/videos/9u0tMBYu9.mp4",
     "https://vildey.com/videos/fKfOrbSc4.mp4",
-    "",
-    "",
-    ""
+    "https://vildey.com/videos/8un9qh5ywrg7.mp4",
+    "https://vildey.com/videos/rWxbnrm11.mp4",
+    "https://vildey.com/videos/7cma9wkgkjxx.mp4"
 ];
 
 
