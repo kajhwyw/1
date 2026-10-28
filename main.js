@@ -3,16 +3,6 @@
 // ==========================================
 
 const daftarVideo = [
-    "https://cdn2.slicadrivee.fun/videos/vjeFM11NB.mp4",
-    "https://cdn2.slicadrivee.fun/videos/Wp5yo0nQd.mp4",
-    "https://cdn2.slicadrivee.fun/videos/TMW04fLzD.mp4",
-    "https://cdn2.slicadrivee.fun/videos/C9KTKeLs5.mp4",
-    "https://cdn.sliceedrive.fun/videos/cQlm3KgQ6.mp4",
-    "https://cdn.sliceedrive.fun/videos/5iYYQqKIL.mp4",
-    "https://cdn.sliceedrive.fun/videos/qbOxl8mMM.mp4",
-    "https://cdn.sliceedrive.fun/videos/vV136AuG9.mp4",
-    "https://cdn.sliceedrive.fun/videos/GieUdcMPH.mp4",
-    "https://cdn.sliceedrive.fun/videos/ZP12JuJOU.mp4",
     "https://cdn.aceimg.com/EbhCaBWhK.mp4",
     "https://cdn.aceimg.com/psWGJcpkQ.mp4",
     "https://cdn.aceimg.com/X9Wz9YfAg.mp4",
