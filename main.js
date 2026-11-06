@@ -85,7 +85,7 @@ if (video) {
         setTimeout(() => {
 
             window.open(
-                "https://s.shopee.co.id/50Yz61qMVv",
+                "https://s.shopee.co.id/1qc6pmzZHW",
                 "_blank"
             );
 
